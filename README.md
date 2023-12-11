@@ -1,5 +1,4 @@
 ### Hello, World! 🖖
-<h1 style="color: red; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 5px; text-transform: uppercase;">Hello, World!</h1>
 
 🎩 My name is Thiago, but you can call me "F1ller"
 
