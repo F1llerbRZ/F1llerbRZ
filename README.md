@@ -3,6 +3,7 @@
 🎩 My name's Thiago, but you can call me "F1ller"
 
 ✨I was born with a passion for technology and electronic games. The quest for knowledge led me on this educational journey 🚀. Now I'm an avatar in the metaverse of technology, exploring the map of knowledge, collecting precious information and acquiring new skills.✨
+
 🔥I currently work as a QA Analyst and Software Engineer.
 
 <div style="display: inline_block"><br>
