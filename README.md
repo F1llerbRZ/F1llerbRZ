@@ -4,7 +4,7 @@
 
 ✨I was born with a passion for technology and electronic games. The quest for knowledge led me on this educational journey 🚀. Now I'm an avatar in the metaverse of technology, exploring the map of knowledge, collecting precious information and acquiring new skills.✨
 
-🔥I work as a QA Analyst and Software Engineer, always willing to teach and learn.
+🔥I work as a QA Analyst and I am always willing to teach and learn.
 
 
 
