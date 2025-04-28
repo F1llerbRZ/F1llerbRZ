@@ -6,7 +6,6 @@
 🔧 I break things so users don't have to  
 🚀 Passionate about automation, quality, and flawless digital experiences
 
----
 
 ## 🛠️ 𝕋𝕖�ℍ 𝕊𝕋𝕒ℂ𝕂
 
