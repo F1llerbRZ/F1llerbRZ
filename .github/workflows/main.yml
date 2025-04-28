@@ -3,29 +3,19 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
-      - uses: actions/checkout@v4
-        
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        id: snake-gif
         with:
           github_user_name: F1llerbRZ
-          svg_output_path: dist/github-snake.svg
-          
-      - name: Push to GitHub
-        run: |
-          git config --global user.name "F1llerbRZ"
-          git config --global user.email "your-email@example.com"
-          git add dist/github-snake.svg
-          git commit -m "Update snake animation"
-          git push
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
