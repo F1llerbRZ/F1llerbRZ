@@ -1,60 +1,59 @@
-# 𝔽1𝕝𝕝𝕖𝕣 | Thiago Oliveira 
+# 𝔽𝟙𝕃𝕃𝔼ℝ | 𝕋ℍ𝕀𝔸𝔾𝕆 𝕆𝕃𝕀𝕍𝔼𝕀ℝ𝔸 
 
-> "𝙲𝚘𝚍𝚎 𝚒𝚜 𝚕𝚒𝚔𝚎 𝚑𝚞𝚖𝚘𝚛. 𝚆𝚑𝚎𝚗 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚊𝚒𝚗 𝚒𝚝, 𝚒𝚝'𝚜 𝚋𝚊𝚍." — 𝙲𝚘𝚛𝚢 𝙷𝚘𝚞𝚜𝚎
+> "**CODE** is like **LOVE**! When you EXPLAIN it... **BAM!** It's **RUINED!**"  
+> *(Inspired by Cory House & Pop Art)*
 
-🧙‍♂️ QA Analyst by day | ✨ Code wizard by night  
-🔧 I break things so users don't have to  
-🚀 Passionate about automation, quality, and flawless digital experiences
-
-
-## 🛠️ 𝕋𝕖�ℍ 𝕊𝕋𝕒ℂ𝕂
-
-### 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 & 𝕋𝕖𝕤𝕥𝕚𝕟𝕘
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 𝔻𝕖𝕧𝕆𝕡𝕤 & 𝕋𝕠𝕠𝕝𝕤
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![ServeRest](https://img.shields.io/badge/API-ServeRest-green?style=for-the-badge)](https://github.com/ServeRest/ServeRest/)
+🦹‍♂️ **QA VIGILANTE** by day | **CODE WARRIOR** by night  
+💥 **I BREAK THINGS** so users **DON'T CRY!**  
+🎨 Making **DIGITAL ART** (aka software) **FLAWLESS!**
 
 ---
 
-## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+## 🎨 **𝕋𝔼ℂℍ 𝔾𝔸𝕃𝕃𝔼ℝ𝕐** (Pop Art Edition)
 
-[![F1ller's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/F1llerbRZ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&theme=radical&hide_border=true)](https://github.com/F1llerbRZ)
+### **🖼️ TEST AUTOMATION MASTERPIECES**
+[![Selenium](https://img.shields.io/badge/SELENIUM-%23FF0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=000000)](https://selenium.dev)
+[![Cypress](https://img.shields.io/badge/CYPRESS-%2300FFFF?style=for-the-badge&logo=cypress&logoColor=black&labelColor=FFFF00)](https://cypress.io)
+[![Playwright](https://img.shields.io/badge/PLAYWRIGHT-%23FF00FF?style=for-the-badge&logo=playwright&logoColor=white&labelColor=000000)](https://playwright.dev)
+
+### **🎭 PROGRAMMING PORTRAITS**
+[![Java](https://img.shields.io/badge/JAVA-%23FF4500?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)](https://java.com)
+[![Python](https://img.shields.io/badge/PYTHON-%2342A5F5?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)](https://python.org)
+[![C#](https://img.shields.io/badge/C%23-%23FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=800080&labelColor=000000)](https://dotnet.microsoft.com)
+
+### **💣 DEVOPS EXPLOSIONS**
+[![Docker](https://img.shields.io/badge/DOCKER-%2300BFFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/KUBERNETES-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=FF0000)](https://kubernetes.io)
 
 ---
 
-## 🌍 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖
+## **📈 𝔾𝕀𝕋ℍ𝕌𝔹 𝕊𝕋𝔸𝕋𝕊 𝕎𝔸ℝℍ𝕆𝕃 𝕊𝕋𝕐𝕃𝔼**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-qa/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F1llerbRZ)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Pop Art Stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=vision-friendly-dark&title_color=FF0000&text_color=FFFF00&icon_color=00FF00&bg_color=000000&border_color=FF00FF&hide_border=false)](https://github.com/F1llerbRZ)
+
+[![Pop Art Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&theme=vision-friendly-dark&title_color=00FFFF&text_color=FFFFFF&bg_color=FF00FF&border_color=FFFF00)](https://github.com/F1llerbRZ)
 
 ---
 
-### 🔥 𝔽𝕦𝕟 𝔽𝕒𝕔𝕥
-"I approach testing like playing Dark Souls - I die (find bugs) repeatedly until I git gud (ship perfect code)."
+## **🖌️ 𝕊𝕀𝔾ℕ 𝕄𝕐 𝔾𝕌𝔼𝕊𝕋𝔹𝕆𝕆𝕂**
 
-### 🚀 ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0066CC&labelColor=000000)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23FF9900?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-%2300FFFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=000000)](https://twitter.com)
 
-⭐ 𝔽𝕣𝕠𝕞 [𝔽𝟙𝕝𝕝𝕖𝕣](https://github.com/F1llerbRZ) 𝕨𝕚𝕥𝕙 ❤️
+---
+
+## **💥 𝔽𝕌ℕ 𝔽𝔸ℂ𝕋 (ℂ𝕆𝕄𝕀ℂ 𝕊𝕋𝕐𝕃𝔼)**
+**"TESTING IS LIKE MODERN ART -**  
+**PEOPLE THINK IT'S RANDOM...**  
+**BUT THERE'S GENIUS IN THE CHAOS!"**  
+
+### **🚀 ℂ𝕌ℝℝ𝔼ℕ𝕋 𝕊𝔼ℝ𝕀𝔼𝕊**
+[![Terraform](https://img.shields.io/badge/TERRAFORM-%23800000?style=for-the-badge&logo=terraform&logoColor=FFFFFF&labelColor=623CE4)](https://terraform.io)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=FFFFFF)](https://aws.amazon.com)
+
+⭐ **FROM [𝔽𝟙𝕃𝕃𝔼ℝ](https://github.com/F1llerbRZ) WITH POP ART LOVE!**  
+*(Cue dramatic comic book "POW!" sound effect)*
 
 
 
