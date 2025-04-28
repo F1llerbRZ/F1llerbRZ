@@ -1,42 +1,48 @@
-### Hello, World! 🖖
+# 👨‍💻 F1ller | Thiago Oliveira
 
-🎩 My name's Thiago, but you can call me "F1ller"
+> “Quality is never an accident; it is always the result of intelligent effort.”
 
-✨I was born with a passion for technology and electronic games. The quest for knowledge led me on this educational journey 🚀. Now I'm an avatar in the metaverse of technology, exploring the map of knowledge, collecting precious information and acquiring new skills.✨
+🐍 Hey there! I’m Thiago — but in the tech world, you can call me **F1ller**. A gamer at heart and a tech enthusiast by nature, I’ve turned my curiosity into a career. I'm currently working as a **QA Analyst**, ensuring that every feature delivered is tested, reliable, and user-ready.  
 
-🔥I work as a QA Analyst and I am always willing to teach and learn.
+🎮 Think of me as an avatar in the metaverse of software development — leveling up skills, collecting knowledge, and helping others along the way. Testing, coding, automating, and occasionally breaking things (on purpose) is what I do best.
 
+---
 
+## 🧰 Tech Toolbox
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p><br/></p>
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=Cypress)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=for-the-badge&logo=Jenkins)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 [![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
 
-<div> 
-  <a href="https://www.linkedin.com/in/thiago-oliveira-qa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+---
 
-##
+## 🌍 Let’s Connect
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=transparent)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-qa/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&langs_count=25&theme=transparent)
+---
+
+## 📈 GitHub Stats
+
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&langs_count=10&theme=transparent)
+
 
 
 
