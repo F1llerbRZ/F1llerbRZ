@@ -9,7 +9,7 @@
 
 ---
 
-## 🎨 **𝕋𝔼ℂℍ 𝔾𝔸𝕃𝕃𝔼ℝ𝕐** (Pop Art Edition)
+## 🎨 **𝕋𝔼ℂℍ 𝔾𝔸𝕃𝕃𝔼ℝ𝕐**
 
 ### **🖼️ TEST AUTOMATION MASTERPIECES**
 [![Selenium](https://img.shields.io/badge/SELENIUM-%23FF0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=000000)](https://selenium.dev)
