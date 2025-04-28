@@ -1,15 +1,14 @@
 # 𝔽𝟙𝕃𝕃𝔼ℝ | 𝕋ℍ𝕀𝔸𝔾𝕆 𝕆𝕃𝕀𝕍𝔼𝕀ℝ𝔸 
 
 > "**CODE** is like **LOVE**! When you EXPLAIN it... **BAM!** It's **RUINED!**"  
-> *(Inspired by Cory House & Pop Art)*
+> *(Inspired by Cory House)*
 
 🦹‍♂️ **QA VIGILANTE** by day | **CODE WARRIOR** by night  
 💥 **I BREAK THINGS** so users **DON'T CRY!**  
-🎨 Making **DIGITAL ART** (aka software) **FLAWLESS!**
 
 ---
 
-## 🎨 **𝕋𝔼ℂℍ 𝔾𝔸𝕃𝕃𝔼ℝ𝕐** (Pop Art Edition)
+## 🎨 **𝕋𝔼ℂℍ 𝔾𝔸𝕃𝕃𝔼ℝ𝕐** 
 
 ### **🖼️ TEST AUTOMATION MASTERPIECES**
 [![Selenium](https://img.shields.io/badge/SELENIUM-%23FF0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=000000)](https://selenium.dev)
