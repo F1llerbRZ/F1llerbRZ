@@ -51,8 +51,7 @@
 [![Terraform](https://img.shields.io/badge/TERRAFORM-%23800000?style=for-the-badge&logo=terraform&logoColor=FFFFFF&labelColor=623CE4)](https://terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=FFFFFF)](https://aws.amazon.com)
 
-⭐ **FROM [𝔽𝟙𝕃𝕃𝔼ℝ](https://github.com/F1llerbRZ) WITH POP ART LOVE!**  
-*(Cue dramatic comic book "POW!" sound effect)*
+⭐ 𝔽𝕣𝕠𝕞 [𝔽𝟙𝕝𝕝𝕖𝕣](https://github.com/F1llerbRZ) 𝕨𝕚𝕥𝕙 ❤️
 
 
 
