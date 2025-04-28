@@ -1,4 +1,4 @@
-# 🐍 F1ller | Thiago Oliveira
+# F1ller | Thiago Oliveira
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
 
