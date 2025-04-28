@@ -40,8 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/F1llerbRZ/F1llerbRZ/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
+ 
 
 ---
 
