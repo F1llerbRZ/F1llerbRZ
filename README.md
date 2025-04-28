@@ -8,11 +8,13 @@
 
 ---
 
-## 🐍 Play Snake Game
+## 🐍 Play Snake Game (and watch the animation!)
 
-Want to take a break from testing? Play a classic **Snake Game** right here:
+Here’s an animated Snake Game to bring back the nostalgia:
 
-[🎮 Play Snake Game](https://www.google.com/search?q=snake+game)
+![Snake Game Animation](https://media.giphy.com/media/xT0xenY1OmdA8nQz9S/giphy.gif)
+
+> Play it. Beat your high score. Come back to test your dev skills! 😜
 
 ---
 
@@ -50,6 +52,7 @@ Want to take a break from testing? Play a classic **Snake Game** right here:
 
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&langs_count=10&theme=transparent)
+
 
 
 
