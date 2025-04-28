@@ -53,6 +53,15 @@ Here’s an animated Snake Game to bring back the nostalgia:
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1llerbRZ&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F1llerbRZ&layout=compact&langs_count=10&theme=transparent)
 
+# Clone o repositório
+git clone https://github.com/Platane/snk.git
+cd snk
+
+# Configurar seu repositório com commits automáticos
+# Vai gerar a cobrinha no gráfico de contribuições do GitHub
+./github-contributions-generator
+
+
 
 
 
