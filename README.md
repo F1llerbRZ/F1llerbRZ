@@ -61,7 +61,7 @@
 
 ⭐ From [F1ller](https://github.com/F1llerbRZ) with ❤️
 
-![Snake animation](https://github.com/F1llerbRZ/F1llerbRZ/blob/main/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/F1llerbRZ/F1llerbRZ/main/dist/github-snake.svg)
 
 
 
